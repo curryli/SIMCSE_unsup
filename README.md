@@ -18,7 +18,7 @@
 
 #### 无监督训练 
 ```bash
-python train_unsup.py ./data/news_title.txt ./path/to/huggingface_pretrained_model
+python train_unsup.py ./data/news_title.txt
 ```
 
 *详细参数*
